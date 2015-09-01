@@ -9,6 +9,6 @@ $('button[type="submit"]').click(disableEvent);
 $('[data-toggle="popover"]').popover();
 $('#openGithub').click(function(e){
     e.preventDefault();
-    window.location = "https://github.com/caneruguz/osf-style";
+    window.location = "https://github.com/billyhunt/osf-api-docs";
 });
 $('[data-toggle="tooltip"]').tooltip();
