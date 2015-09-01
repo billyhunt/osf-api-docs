@@ -7,7 +7,7 @@ This is the start of the Open Science Framework's (OSF) API Documentation.  The 
 * Clone the remote repo to your local
 
         $ git clone https://github.com/billyhunt/osf-api-docs.git
-        $ cd osf-style
+        $ cd osf-api-docs
     
 * Install the dependent libraries (listed in [package.json](https://github.com/haoyuchen1992/osf-style/blob/Edit-Readme/package.json)) with npm
 
